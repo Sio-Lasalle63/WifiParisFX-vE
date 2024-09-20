@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.sothawo.mapjfx.MapView?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.chart.PieChart?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+
+<HBox fx:id="hbox" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="796.0" prefWidth="1244.0" spacing="5.0" xmlns="http://javafx.com/javafx/22" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.medassi.hotspotsparis.FXMLController">
+   <children>
+      <VBox alignment="TOP_CENTER" nodeOrientation="LEFT_TO_RIGHT" spacing="5.0">
+         <children>
+            <ComboBox fx:id="cbArr" prefWidth="150.0" />
+            <Label fx:id="labelCentre" />
+            <ListView fx:id="listview" maxHeight="-Infinity" minHeight="-Infinity" prefHeight="278.0" prefWidth="600.0" VBox.vgrow="ALWAYS">
+               <padding>
+                  <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+               </padding>
+            </ListView>
+            <Label fx:id="labelHSProche" layoutX="191.0" layoutY="589.0" />
+            <Label fx:id="labelQualite" />
+            <HBox prefHeight="400.0" prefWidth="200.0">
+               <children>
+                  <PieChart fx:id="pieChartConstructor" title="Fabricant" />
+                  <PieChart fx:id="pieChartBrowser" title="Navigateur" />
+                  <PieChart fx:id="pieChartData" title="Données" />
+               </children>
+            </HBox>
+         </children>
+         <padding>
+            <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+         </padding>
+      </VBox>
+      <MapView fx:id="mapView" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="780.0" prefWidth="612.0" />
+   </children>
+   <padding>
+      <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+   </padding>
+</HBox>

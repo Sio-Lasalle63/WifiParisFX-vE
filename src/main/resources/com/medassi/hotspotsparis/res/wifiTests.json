@@ -1,0 +1,181 @@
+{
+    "total_count": 277,
+    "results": [
+        {
+            "nom_site": "BIBLIOTHEQUE MARGUERITE AUDOUX",
+            "arc_adresse": "8-12 RUE PORTEFOIN",
+            "cp": "75003",
+            "idpw": "PW0044",
+            "nombre_de_borne_wifi": 2,
+            "etat2": "Opérationnel",
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [2.35984625660083, 48.8637689235501],
+                    "type": "Point"
+                },
+                "properties": {
+
+                }
+            },
+            "geo_point_2d": {
+                "lon": 2.35984625660083,
+                "lat": 48.8637689235501
+            }
+        },
+        {
+            "nom_site": "SQUARE FERDINAND BRUNOT",
+            "arc_adresse": "PLACE FERDINAND BRUNOT",
+            "cp": "75014",
+            "idpw": "PW0065",
+            "nombre_de_borne_wifi": 1,
+            "etat2": "Opérationnel",
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [2.32676722613722, 48.8328511609528],
+                    "type": "Point"
+                },
+                "properties": {
+
+                }
+            },
+            "geo_point_2d": {
+                "lon": 2.32676722613722,
+                "lat": 48.8328511609528
+            }
+        },
+        {
+            "nom_site": "SQUARE SERMENT DE KOUFRA",
+            "arc_adresse": "30 AVENUE ERNEST REYER",
+            "cp": "75014",
+            "idpw": "PW0188",
+            "nombre_de_borne_wifi": 1,
+            "etat2": "Opérationnel",
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [2.32303498217587, 48.8215934539094],
+                    "type": "Point"
+                },
+                "properties": {
+
+                }
+            },
+            "geo_point_2d": {
+                "lon": 2.32303498217587,
+                "lat": 48.8215934539094
+            }
+        },
+        {
+            "nom_site": "BIBLIOTHEQUE DU CINEMA FRANCOIS TRUFFAUT",
+            "arc_adresse": "14 RUE DES PROUVAIRES",
+            "cp": "75001",
+            "idpw": "PW0112",
+            "nombre_de_borne_wifi": 1,
+            "etat2": "Opérationnel",
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [2.34415410950866, 48.8614889105823],
+                    "type": "Point"
+                },
+                "properties": {
+
+                }
+            },
+            "geo_point_2d": {
+                "lon": 2.34415410950866,
+                "lat": 48.8614889105823
+            }
+        },
+        {
+            "nom_site": "BIBLIOTHEQUE SORBIER",
+            "arc_adresse": "17 RUE SORBIER",
+            "cp": "75020",
+            "idpw": "PW0129",
+            "nombre_de_borne_wifi": 2,
+            "etat2": "Opérationnel",
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [2.39285197456911, 48.8659615823758],
+                    "type": "Point"
+                },
+                "properties": {
+
+                }
+            },
+            "geo_point_2d": {
+                "lon": 2.39285197456911,
+                "lat": 48.8659615823758
+            }
+        },
+        {
+            "nom_site": "STADE CHARLETY",
+            "arc_adresse": "99 BOULEVARD KELLERMANN",
+            "cp": "75013",
+            "idpw": "PW0169",
+            "nombre_de_borne_wifi": 9,
+            "etat2": "Opérationnel",
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [2.34670165273302, 48.8193343809751],
+                    "type": "Point"
+                },
+                "properties": {
+
+                }
+            },
+            "geo_point_2d": {
+                "lon": 2.34670165273302,
+                "lat": 48.8193343809751
+            }
+        },
+        {
+            "nom_site": "MUSEE GALLIERA",
+            "arc_adresse": "10 AVENUE PIERRE 1ER DE SERBIE",
+            "cp": "75016",
+            "idpw": "PW0229",
+            "nombre_de_borne_wifi": 20,
+            "etat2": "Opérationnel",
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [2.29649386076119, 48.8659117865607],
+                    "type": "Point"
+                },
+                "properties": {
+
+                }
+            },
+            "geo_point_2d": {
+                "lon": 2.29649386076119,
+                "lat": 48.8659117865607
+            }
+        },
+        {
+            "nom_site": "MAIRIE DU 20 EME",
+            "arc_adresse": "6 PLACE GAMBETTA",
+            "cp": "75020",
+            "idpw": "PW0018",
+            "nombre_de_borne_wifi": 4,
+            "etat2": "Opérationnel",
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [2.39899770026404, 48.8650911390667],
+                    "type": "Point"
+                },
+                "properties": {
+
+                }
+            },
+            "geo_point_2d": {
+                "lon": 2.39899770026404,
+                "lat": 48.8650911390667
+            }
+        }
+    ]
+}
