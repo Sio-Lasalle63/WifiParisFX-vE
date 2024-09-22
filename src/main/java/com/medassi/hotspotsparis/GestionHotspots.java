@@ -25,7 +25,6 @@ public class GestionHotspots {
     }
 
     public void loadJSON(String sUrlWifi) throws IOException, ParseException {
-        JSONParser jsonp = new JSONParser();
         OkHttpClient okHttpClient = SSLUtil.getUnsafeOkHttpClient();
         Request request = new Request.Builder()
                 .url(sUrlWifi)
